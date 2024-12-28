@@ -1,4 +1,4 @@
-# Deep Learning | Gen AI | Natural Language Processing | Machine Learning
+## Aspiring NLP & Gen AI Enthusiast
 
 Hi, I'm **Viswadarshan R R**, a final year B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in AI and Natural Language Processing (NLP), with a keen interest in Generative AI. I'm passionate about exploring and creating impactful solutions through design and advanced technology. I've contributed to academic journals on Tamil Language Processing and developing variety of industry-standard AI projects with a focus on the entire development lifecycle. I'm always looking for ways to expand my knowledge and experience in the field.
 
@@ -128,35 +128,29 @@ Hi, I'm **Viswadarshan R R**, a final year B.Tech student in Computer Science an
 ## Leadership Roles
 
 **Joint Treasurer | Computer Science and Business Systems Association (Present)**
-
   - Managing finances and resource allocation for departmental events and initiatives.
   - By Organizing technical and non-technical events, enhancing student participation and engagement.
   - Actively contributing to the smooth functioning of the association and supported event execution.
 
 **Student Coordinator | Applied Computing SIG, Department of CSBS (Present)**
-
   - Organizing hands-on workshops and seminars on computational intelligence and advanced technologies.
   - Led student teams in projects related to computational intelligence, fostering innovation and practical learning.
   - Facilitating knowledge sharing and skill development among students through SIG activities.
 
 **Placement Representative | Department of Computer Science and Business Systems, TCE (Present)**
-
   - Acting as the primary liaison between students and placement cell, ensuring smooth communication during placement drives.
   - Coordinating placement activities, enhancing the department's placement outcomes.
 
 ## Contributions
 
 **Research Contributor | MuthirAI - A Global Research Centre for Tamil and AI (Present)**
-
   - Developing cutting-edge AI models for Tamil Language Processing, focusing on enhancing linguistic and semantic understanding.
   - Collaborating with researchers to integrate advanced NLP techniques for Tamil, contributing to publications and innovative projects.
   - Exploring AI-driven solutions for improving accessibility and language preservation.
 
 ---
 
-## Contact Me
-
-Get in Touch!
+## Get in Touch!
 
 - **Email:** [viswadarshanrramiya@gmail.com](mailto:viswadarshanrramiya@gmail.com)
 - **Phone:** +91 6380403325
