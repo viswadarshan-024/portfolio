@@ -1,27 +1,16 @@
-/* Import Lexend font */
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap');
+/* Importing the Lexend font */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap');
 
-/* General Styles */
+/* Applying global styles */
 body {
+    font-family: 'Lexend', sans-serif; /* Setting the font to Lexend */
+    text-align: justify; /* Justifying the text content */
+}
+
+/* Ensuring headings and sections maintain the font */
+h1, h2, h3, h4, h5, h6, p, div, span {
     font-family: 'Lexend', sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f9f9;
-    color: #333;
-    text-align: justify; /* Justify text content */
+    text-align: justify; /* Justifying all textual content */
 }
 
-h1, h2, h3 {
-    color: #34495e;
-}
-
-a {
-    color: #2980b9;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #1abc9c;
-}
 @import "{{ site.theme }}";
