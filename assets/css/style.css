@@ -1,37 +1,45 @@
 /* General Styles */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     color: #333;
 }
 
 h1, h2, h3 {
-    color: #2c3e50;
+    color: #34495e;
 }
 
 a {
-    color: #3498db;
+    color: #2980b9;
     text-decoration: none;
+    transition: color 0.3s;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #1abc9c;
 }
 
 /* Header Styles */
 header {
-    background: #2980b9;
+    background: linear-gradient(135deg, #2980b9, #6dd5ed);
     color: #fff;
-    padding: 20px 0;
+    padding: 40px 0;
     text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.5em;
+    font-size: 3em;
+    letter-spacing: 1px;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-top: 10px;
 }
 
 /* Main Content Styles */
@@ -44,51 +52,77 @@ header h1 {
 
 section {
     margin: 20px 0;
-    padding: 20px;
+    padding: 30px;
     background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* Education and Skills Tables */
 table {
     width: 100%;
     border-collapse: collapse;
+    margin-top: 20px;
 }
 
 table, th, td {
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 12px;
 }
 
 th {
     background-color: #2980b9;
     color: white;
+    text-align: left;
 }
 
 /* Project Cards */
 .project {
     border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    margin: 10px 0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
     background: #ecf0f1;
-    transition: transform 0.3s;
+    transition: transform 0.3s, box-shadow 0.3s;
+    position: relative;
 }
 
 .project:hover {
-    transform: scale(1.02);
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.project h3 {
+    margin-top: 0;
 }
 
 /* Footer Styles */
 footer {
     text-align: center;
     padding: 20px 0;
-    background: #2980b9;
+    background: #34495e;
     color: #fff;
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+/* Button Styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background: #1abc9c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.button:hover {
+    background: #16a085;
 }
 
 /* Responsive Styles */
@@ -98,7 +132,11 @@ footer {
     }
 
     header h1 {
-        font-size: 2em;
+        font-size: 2.5em;
+    }
+
+    header p {
+        font-size: 1em;
     }
 }
 @import "{{ site.theme }}";
