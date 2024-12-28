@@ -1,24 +1,22 @@
 # Deep Learning | Gen AI | Natural Language Processing | Machine Learning
 
-Welcome to my personal portfolio! This website showcases my academic journey, professional experience, projects, and interests. I have designed it to reflect a minimalistic theme, focusing on clarity and simplicity.
-
-## About Me
-
 Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in **AI and Natural Language Processing**, with a keen interest in **Generative AI** and creating impactful solutions through design and technology.
 
 ---
 
 ## Education
 
-  - B.Tech (CSBS) - Thiagarajar College of Engineering (CGPA: 8.51)
+  - B.Tech (CSBS) - Thiagarajar College of Engineering (CGPA: 8.51)(Ongoing)
   - Higher Secondary - Velammal Matric Hr. Sec. School, Madurai (95.5%)
+
 
 ## Technical Skills
 
   - **Languages** : Python, Java, SQL
-  - **Familiar with** :
+  - **Familiar with** : C, C++, Android Studio(Java), Figma, Canva
   - **Frameworks** : Hugging Face Transformers, LangChain, Streamlit, PyTorch, NLP libraries 
   - **Tools** : Visual Studio Code, Google Colab, Jupyter Notebook, Git
+
 
 ## Certifications
 
@@ -29,35 +27,89 @@ Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business 
   - Design Thinking, IUCEE Foundation 
   - Gold Badge for C Programming, HackerRank
 
+
 ---
 
-## Featured Projects
 
-### 1. **AI Storytelling Platform for Children**
-- **Summary:** Personalized, interactive storytelling powered by Mistral AI.
-- **Technologies:** Python, ReactJS, Hugging Face Transformers
-- **Features:** Emotional interactive storytelling, multimedia integration.
+## Projects
 
-### 2. **Real-Time Emotion Analyst**
-- **Summary:** An NLP-based application to analyze emotional tone in real-time.
-- **Technologies:** LSTM Networks, NLP Libraries, Streamlit
-- **Features:** Audio-text integration, sarcasm detection.
+### QR Code Payment System for Bus Commuting
 
-### 3. **QR Code Payment System**
-- **Summary:** A contactless fare payment system for buses.
-- **Technologies:** Android Studio, Figma
-- **Features:** Real-time fare tracking, validation system.
+*  A bus commuting system designed to simplify fare payments and provide seamless, contactless travel experiences for passengers. 
+* **Features:**
+    * Contactless Payments 
+    * Real-Time Fare Tracking 
+    * Validation
+* **Technologies Used:** Android Studio and Figma
 
-[Visit the **Projects** section on my portfolio for more details!]
+
+### Real-Time Emotion Analyst
+
+*  A Real-Time Tone Analysis Application using LSTM and NLP models to provide instant feedback on the emotional tone of speech.
+* **Features:**
+    * Real-time Emotion and Sarcasm Detection
+    * Audio and Text-Based Integration
+* **Technologies Used:** LSTM Networks, NLP, StreamLit
+
+
+### AI Storytelling Platform for Children
+
+* An AI-powered storytelling platform using Mistral AI that generates personalized, interactive stories with multimedia elements to enhance early childhood learning and engagement.
+* **Features:**
+    * Emotional Interactive Storytelling
+    * Interactive Multimedia Experience
+* **Technologies Used:** Python, Hugging Face Transformers, React JS
+
+
+### Multilingual LLM Translator App
+
+* A multilingual translation app built with Streamlit and powered by the Groq Model (Gemma2-9b-It). It uses the LangChain framework to create a modular pipeline, combining prompts, models, and parsers. This app enables seamless translation of text into a wide range of languages.
+* **Features:**
+    * Multilingual Translation from any to any
+    * Custom Language Input
+* **Technologies Used:** LangChain, Groq Model (Gemma2-9b-It), Streamlit
+  
+
+### Customer Churn Prediction App
+
+* A predictive application developed using Streamlit and a pre-trained TensorFlow model to assess customer churn likelihood. Users can input demographic and account details to get real-time churn predictions.
+* **Features:**
+    * Interactive User Interface
+    * Real-Time Predictions
+    * Advanced Preprocessing
+* **Technologies Used:** TensorFlow (Keras), Scikit-learn, Streamlit
+
+
+### Personal Chatbot with Multi-Session Management
+
+* A chatbot interface that supports multi-session management, built using the LangChain framework and powered by the Groq llama3-70b model. Users can create, switch, and manage multiple chat sessions effortlessly.
+* **Features:**
+    * Multi-Session Management
+    * Customizable Chat Histories
+    * Supports message types for human and AI responses.
+* **Technologies Used:** LangChain, Groq llama3-70b Model, Streamlit
+
+
+### Summaribot - Document Summarization and Interactive Chatbot
+
+* A dual-function application that integrates document summarization with an interactive chatbot. Users can upload documents, generate concise summaries, and ask questions based on the summarized content.
+* **Features:**
+    * Document Upload
+    * Summarization
+    * Interactive Chat
+    * History Tracking
+* **Technologies Used:** Groq API, Hugging Face Inference API, Streamlit
 
 ---
 
 ## Research & Publications
 
-- **Title:** Enhancing Masked Word Prediction in Tamil Language Models: A Synergistic Approach Using BERT and SBERT
+### Enhancing Masked Word Prediction in Tamil Language Models: A Synergistic Approach Using BERT and SBERT
   - Presented at the International Conference on Natural Language Processing (ICON) 2024.
-  - Co-authors: Dr. J. Felicia Lilian and Myself.
-  - [Link to Paper/Poster if applicable]
+  - Authors: Viswadarshan R R, Viswaa Selvam S, Dr. J. Felicia Lilian, Mahalakshmi S.
+  - **Summary:** 
+    * Proposed an innovative approach integrating BERT and SBERT to improve masked word prediction and sentence-level semantic analysis in Tamil language models. 
+    * Trained models on diverse datasets to achieve enhanced accuracy and semantic coherence. 
 
 ---
 
@@ -82,11 +134,11 @@ Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business 
   - By Organizing technical and non-technical events, enhancing student participation and engagement.
   - Actively contributing to the smooth functioning of the association and supported event execution.
 
-**Research Contributor | MuthirAI - A Global Research Centre for Tamil and AI (Present)**
+**Student Coordinator | Applied Computing SIG, Department of CSBS (Present)**
 
-  - Developing cutting-edge AI models for Tamil Language Processing, focusing on enhancing linguistic and semantic understanding.
-  - Collaborating with researchers to integrate advanced NLP techniques for Tamil, contributing to publications and innovative projects.
-  - Exploring AI-driven solutions for improving accessibility and language preservation.
+  - Organizing hands-on workshops and seminars on computational intelligence and advanced technologies.
+  - Led student teams in projects related to computational intelligence, fostering innovation and practical learning.
+  - Facilitating knowledge sharing and skill development among students through SIG activities.
 
 **Placement Representative | Department of Computer Science and Business Systems, TCE (Present)**
 
@@ -95,11 +147,11 @@ Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business 
 
 ## Contributions
 
-**Student Coordinator | Applied Computing SIG, Department of CSBS (Present)**
+**Research Contributor | MuthirAI - A Global Research Centre for Tamil and AI (Present)**
 
-  - Organizing hands-on workshops and seminars on computational intelligence and advanced technologies.
-  - Led student teams in projects related to computational intelligence, fostering innovation and practical learning.
-  - Facilitating knowledge sharing and skill development among students through SIG activities.
+  - Developing cutting-edge AI models for Tamil Language Processing, focusing on enhancing linguistic and semantic understanding.
+  - Collaborating with researchers to integrate advanced NLP techniques for Tamil, contributing to publications and innovative projects.
+  - Exploring AI-driven solutions for improving accessibility and language preservation.
 
 ---
 
