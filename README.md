@@ -1,13 +1,14 @@
 # Deep Learning | Gen AI | Natural Language Processing | Machine Learning
 
-Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in **AI and Natural Language Processing**, with a keen interest in **Generative AI** and creating impactful solutions through design and technology.
+Hi, I'm **Viswadarshan R R**, a final year B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in AI and Natural Language Processing (NLP), with a keen interest in Generative AI. I'm passionate about exploring and creating impactful solutions through design and advanced technology. I've contributed to academic journals on Tamil Language Processing and developing variety of industry-standard AI projects with a focus on the entire development lifecycle. I'm always looking for ways to expand my knowledge and experience in the field.
 
 ---
 
 ## Education
 
-  - B.Tech (CSBS) - Thiagarajar College of Engineering (CGPA: 8.51)(Ongoing)
-  - Higher Secondary - Velammal Matric Hr. Sec. School, Madurai (95.5%)
+  - B.Tech (CSBS) | Thiagarajar College of Engineering (CGPA: 8.51)(Ongoing)
+  - Minor in AI | Indian Institute of Technology, Ropar (Ongoing)
+  - Higher Secondary | Velammal Matric Hr. Sec. School, Madurai (95.5%)
 
 
 ## Technical Skills
@@ -20,16 +21,14 @@ Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business 
 
 ## Certifications
 
-  - AI & ML with Deep Learning, Workshop at IIT Madras 
-  - Python and Java, Spoken Tutorial (IIT Bombay) 
   - Deep Learning, PathAI (One Fourth Labs) 
   - AI Foundation and Primer Certification, Infosys Springboard 
-  - Design Thinking, IUCEE Foundation 
+  - Design Thinking, IUCEE Foundation
+  - AI & ML with Deep Learning, Workshop at IIT Madras 
+  - Python and Java, Spoken Tutorial (IIT Bombay) 
   - Gold Badge for C Programming, HackerRank
 
-
 ---
-
 
 ## Projects
 
@@ -155,24 +154,13 @@ Hi, I'm **Viswadarshan R R**, a B.Tech student in Computer Science and Business 
 
 ---
 
-## Interests
-
-- Generative AI
-- Natural Language Processing (NLP)
-- Web and App Development
-- Sci-Fi Literature
-
----
-
 ## Contact Me
 
-Feel free to reach out for collaborations, research opportunities, or just a tech chat!
+Get in Touch!
 
 - **Email:** [viswadarshanrramiya@gmail.com](mailto:viswadarshanrramiya@gmail.com)
 - **Phone:** +91 6380403325
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-profile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-phone-number)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/viswadarshan-r-r-68b8b124b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viswadarshan-024)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916380403325)
