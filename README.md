@@ -1,6 +1,6 @@
 ## Aspiring NLP & Gen AI Enthusiast
 
-Hi, I'm **Viswadarshan R R**, a final year B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in AI and Natural Language Processing (NLP), with a keen interest in Generative AI. I'm passionate about exploring and creating impactful solutions through design and advanced technology. I've contributed to academic journals on Tamil Language Processing and developing variety of industry-standard AI projects with a focus on the entire development lifecycle. I'm always looking for ways to expand my knowledge and experience in the field.
+Hi, I'm **Viswadarshan R R**, a final year B.Tech student in Computer Science and Business Systems at Thiagarajar College of Engineering, Madurai. I specialize in AI and Natural Language Processing (NLP), with a keen interest in Generative AI. I'm passionate about exploring and creating impactful solutions through design and advanced technology. I'm contributing to academic journals on Tamil Language Processing and developing variety of industry-standard AI projects with a focus on the entire development lifecycle. I'm always looking for ways to expand my knowledge and experience in the field.
 
 ---
 
